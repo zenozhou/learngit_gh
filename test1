@@ -1,3 +1,4 @@
 print("hello world")
 add 2
-this is dev1
+<<<<<<< HEAD
+this is dev2
